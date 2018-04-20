@@ -9,6 +9,17 @@
 <meta name="verify-v1" content="ZpBqquzCjAUJ3P6MlQf4UFV1XlXBy58JjBbcIlPdqGk=" />
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>The wedding of Maren Beckman and Matthieu Tripoli | Bienvenue FR</title>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109518339-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-109518339-1');
+</script>
+
 <!-- InstanceEndEditable -->
 <style type="text/css">
 <!--
@@ -52,7 +63,7 @@ a:hover {
     <td width="150" align="center" valign="top">
     <br />
     <br />
-        
+
         <a href="index_fr.php">Bienvenue</a><br />
         <a href="story_fr.html">Notre Histoire</a><br />
         <a href="pics_fr.html">Photos</a><br />
@@ -64,7 +75,7 @@ a:hover {
         <a href="registery_fr.html">Liste de Mariage</a><br />
         <a href="polls_fr.php">Questionnaire</a><br />
         <a href="contact_fr.php">Contacter Nous</a></span><br />
-        
+
     </td>
 <!-- InstanceBeginEditable name="body1" -->
     <td width="500" align="center" valign="middle">

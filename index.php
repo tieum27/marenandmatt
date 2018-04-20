@@ -10,6 +10,17 @@
 <meta name="verify-v1" content="ZpBqquzCjAUJ3P6MlQf4UFV1XlXBy58JjBbcIlPdqGk=" />
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>The wedding of Maren Beckman and Matthieu Tripoli | Home</title>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109518339-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-109518339-1');
+</script>
+
 <!-- InstanceEndEditable -->
 <style type="text/css">
 <!--
@@ -50,7 +61,7 @@ a:hover {
     <td width="150" align="center" valign="top">
     <br />
     <br />
-        
+
         <a href="index.php">Home</a><br />
         <a href="story.html">Our story</a><br />
         <a href="pics.html">Pics</a><br />
@@ -62,7 +73,7 @@ a:hover {
         <a href="registry.html">Registry</a><br />
         <a href="polls.php">Polls</a><br />
         <a href="contact.php">Contact us</a></span><br />
-        
+
     </td>
 <!-- InstanceBeginEditable name="body1" -->
     <td width="500" align="center" valign="middle">
